@@ -1,4 +1,3 @@
-x = float(input = "Enter %: ")
-y = float(input = "Enter a number")
-result = y/100*x
-print(x,"% of",y, "=", result)
+name=input('What is your name')
+color=input('What is your favorite color')
+password=name+color
