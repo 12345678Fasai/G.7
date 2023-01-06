@@ -1,4 +1,3 @@
-name=input('What is your name')
-color=input('What is your favorite color')
-password=name+color
-print(password)
+number1 = 70
+number2 = 80
+ans = input('do you want to add')
