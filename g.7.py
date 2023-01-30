@@ -1,5 +1,5 @@
-for i in range (10) : 
-    n1 = int(input('enter number1'))
-    n2 = int(input('enter number2'))
-    result = n1+ n2
-    print (result)
+total = 0
+for i in range(10):
+    e = int(input('enter a number:'))
+    total = total + e
+print(total)
